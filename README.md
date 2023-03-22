@@ -1,4 +1,4 @@
-### Hi there 👋
+So you are looking at my repository?  Be sure to let me know about it. 👋
 
 <!--
 **bieberj/bieberj** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
